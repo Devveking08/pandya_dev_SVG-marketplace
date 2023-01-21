@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<<<<<<< Updated upstream
 	 viewBox="0 0 184.695 192.078" enable-background="new 0 0 184.695 192.078" xml:space="preserve">
 <g id="drums">
 	
@@ -32,5 +33,30 @@
 		c-8.396-5.524-4.263-12.064,1.79-13.203c1.522,5.875,3.009,11.671,4.211,16.68c-1.631,0.443-3.535,0.7-5.759,0.712
 		c-5.56,0-16.671-2.735-16.671-13.091C20.423,49.476,28.202,45.951,35.304,40.813z M40.022,53.662c0.242-0.011,0.505-0.007,0.75,0
 		c10.115,0,13.929,12.415,3.63,16.383C43.12,65.065,41.566,59.356,40.022,53.662z"/>
+=======
+	 viewBox="0 0 115.088 114.386" enable-background="new 0 0 115.088 114.386" xml:space="preserve">
+<g id="drums">
+	<ellipse fill="none" stroke="#000000" stroke-width="3.215" stroke-miterlimit="10" cx="57" cy="61.397" rx="23.688" ry="19.868"/>
+	
+		<ellipse fill="none" stroke="#000000" stroke-width="3.6528" stroke-miterlimit="10" cx="57" cy="61.397" rx="26.914" ry="22.573"/>
+	<g id="drumstick_00000110428399509549138110000010598873985100940934_">
+		<polygon fill="#2A000B" points="52.356,65.248 57.695,94.25 60.177,93.782 54.838,64.779 		"/>
+		
+			<ellipse transform="matrix(0.9687 -0.2483 0.2483 0.9687 -14.3505 15.3555)" fill="#2A000B" cx="53.697" cy="64.566" rx="2.681" ry="2.593"/>
+	</g>
+	<g id="drumstick">
+		<polygon fill="#2A000B" points="63.959,58.992 97.143,67.288 97.821,64.504 64.637,56.208 		"/>
+		<ellipse fill="#2A000B" cx="63.872" cy="57.284" rx="3.006" ry="3.043"/>
+	</g>
+	<path fill="none" stroke="#000000" stroke-width="1.9372" stroke-miterlimit="10" d="M31.72,113.417h51.647
+		c16.984,0,30.752-13.768,30.752-30.752V31.72c0-16.984-13.768-30.752-30.752-30.752H31.72c-16.984,0-30.752,13.768-30.752,30.752
+		v50.945C0.969,99.649,14.737,113.417,31.72,113.417z"/>
+	<g>
+		<polyline fill="#FFFFFF" stroke="#000000" stroke-width="1.6055" stroke-miterlimit="10" points="46.435,34.912 30.645,7.138 
+			13.738,18.03 25.194,39.61 		"/>
+		<ellipse transform="matrix(0.8255 -0.5645 0.5645 0.8255 -13.4038 29.3371)" cx="40.735" cy="36.342" rx="6.585" ry="3.034"/>
+		<ellipse transform="matrix(0.8548 -0.5189 0.5189 0.8548 -19.2064 16.7093)" cx="20.26" cy="42.68" rx="6.501" ry="3.073"/>
+	</g>
+>>>>>>> Stashed changes
 </g>
 </svg>
