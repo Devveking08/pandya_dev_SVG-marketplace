@@ -8,30 +8,28 @@
 	display: grid;
 	grid-template-columns: repeat(12, 122px);
 	grid-column-gap: 40px;
+  margin-top: 20px;
 	padding-left: 140px;
 	padding-right: 140px;
 }
 
-
-
-h1{
-    background-color: #353534;
-    color:white;
-    font-family: 'Times New Roman', Times, serif;
-    font-size:x-large;
-    text-align: center;
-}
-
-#gallery-controls {
-	margin-top: 200px;
-	grid-column: 6/8;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+.heading {
+  padding: 60px;
+  text-align: center;
+  background: white;
+  color: black;
+  font-size: 30px;
 }
 
 
-.card {
+.gallery-box{
+  background-color: white;
+	grid-column: span 2 / span 2;
+	/* Remove as content will dictate height */
+
+}
+
+#card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
     margin: auto;
@@ -47,7 +45,7 @@ h1{
     font-size: 22px;
   }
   
-  .card button {
+#card button {
     border: none;
     outline: 0;
     padding: 12px;
@@ -57,8 +55,7 @@ h1{
     cursor: pointer;
     width: 100%;
     font-size: 18px;
-  }
-  
-  .card button:hover {
+  }  
+#card button:hover {
     opacity: 0.7;
   }
