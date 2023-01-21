@@ -1,0 +1,13 @@
+
+.hidden {
+    display: none;
+}
+
+
+h1{
+    background-color: #353534;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+    text-align: center;
+}
