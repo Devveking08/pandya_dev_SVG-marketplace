@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 249 209">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 1;
+      }
+
+      .cls-2 {
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <g id="Icon-1">
+    <rect class="cls-1" x="18" y="7" width="215" height="188" rx="22" ry="22"/>
+    <line class="cls-2" x1="219" y1="115" x2="39" y2="115"/>
+    <line class="cls-2" x1="219" y1="14" x2="39" y2="14"/>
+    <line class="cls-2" x1="219" y1="89" x2="39" y2="89"/>
+    <line class="cls-2" x1="219" y1="64" x2="39" y2="64"/>
+    <image width="12" height="12" transform="translate(-3) scale(0 0)" xlink:href="C:\Users\devpa\Downloads\—Pngtree—g clef (treble clef) musical_6044268.png"/>
+  </g>
+</svg>

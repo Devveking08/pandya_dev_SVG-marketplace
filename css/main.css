@@ -9,8 +9,11 @@
 	grid-template-columns: repeat(12, 122px);
 	grid-column-gap: 40px;
   margin-top: 20px;
+
+
 	padding-left: 140px;
 	padding-right: 140px;
+  padding-top: 50px;
 }
 
 .heading {
@@ -19,14 +22,6 @@
   background: white;
   color: black;
   font-size: 30px;
-}
-
-
-.gallery-box{
-  background-color: white;
-	grid-column: span 2 / span 2;
-	/* Remove as content will dictate height */
-
 }
 
 #card {
@@ -45,7 +40,7 @@
     font-size: 22px;
   }
   
-#card button {
+  #card button {
     border: none;
     outline: 0;
     padding: 12px;
@@ -55,7 +50,7 @@
     cursor: pointer;
     width: 100%;
     font-size: 18px;
-  }  
-#card button:hover {
+  
+  #card button:hover {
     opacity: 0.7;
   }
